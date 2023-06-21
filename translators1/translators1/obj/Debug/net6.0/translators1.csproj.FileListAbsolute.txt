@@ -1,0 +1,15 @@
+D:\Projects\c++c#\institut\translators1\translators1\bin\Debug\net6.0\translators1.exe
+D:\Projects\c++c#\institut\translators1\translators1\bin\Debug\net6.0\translators1.deps.json
+D:\Projects\c++c#\institut\translators1\translators1\bin\Debug\net6.0\translators1.runtimeconfig.json
+D:\Projects\c++c#\institut\translators1\translators1\bin\Debug\net6.0\translators1.dll
+D:\Projects\c++c#\institut\translators1\translators1\bin\Debug\net6.0\translators1.pdb
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\translators1.csproj.AssemblyReference.cache
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\translators1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\translators1.AssemblyInfoInputs.cache
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\translators1.AssemblyInfo.cs
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\translators1.csproj.CoreCompileInputs.cache
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\translators1.dll
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\refint\translators1.dll
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\translators1.pdb
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\translators1.genruntimeconfig.cache
+D:\Projects\c++c#\institut\translators1\translators1\obj\Debug\net6.0\ref\translators1.dll

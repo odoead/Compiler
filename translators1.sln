@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "translators1", "translators1\translators1.csproj", "{68BC920F-FECB-4E01-9518-F612F1B53454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "translatorGraphicForms1", "translatorGraphicForms1\translatorGraphicForms1.csproj", "{BCCFD64D-5C37-4C96-8BC0-DC836B1ED06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BC920F-FECB-4E01-9518-F612F1B53454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BC920F-FECB-4E01-9518-F612F1B53454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BC920F-FECB-4E01-9518-F612F1B53454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BC920F-FECB-4E01-9518-F612F1B53454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCFD64D-5C37-4C96-8BC0-DC836B1ED06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCFD64D-5C37-4C96-8BC0-DC836B1ED06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCFD64D-5C37-4C96-8BC0-DC836B1ED06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCFD64D-5C37-4C96-8BC0-DC836B1ED06A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AFE200F-F5DA-43AE-BC81-6E6549A84074}
+	EndGlobalSection
+EndGlobal
